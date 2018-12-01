@@ -1,4 +1,4 @@
-const houndstoothOutline = [
+const houndstoothOutline: number[][] = [
     [-3, 1],
     [-1, -1],
     [0, -1],
