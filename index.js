@@ -1,4 +1,4 @@
-export default [
+const houndstoothOutline = [
     [-3, 1],
     [-1, -1],
     [0, -1],
@@ -14,3 +14,5 @@ export default [
     [-1, 0],
     [-2, 1],
 ]
+
+export default houndstoothOutline
